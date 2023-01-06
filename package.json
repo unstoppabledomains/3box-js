@@ -86,7 +86,7 @@
     "@babel/plugin-transform-runtime": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
-    "@portis/web3": "^2.0.0-beta.55",
+    "@portis/web3": "^4.0.7",
     "@walletconnect/web3-provider": "^1.0.0-beta.47",
     "authereum": "0.0.4-beta.155",
     "babel-core": "7.0.0-bridge.0",
